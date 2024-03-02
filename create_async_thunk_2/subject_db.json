@@ -1,0 +1,18 @@
+{
+    "science_subjects" : [
+        {"id" : 1, "name" : "Mayuk Mukherjee", "address" : "Barendranagr", "physics" : 99, "chemistry" : 88, "mathematics" : 97 },
+        {"id" : 2, "name" : "Suryendu Sarkar", "address" : "Thanapara", "physics" : 86, "chemistry" : 68, "mathematics" : 91 },
+        {"id" : 3, "name" : "Aninda Mukherjee", "address" : "Banarjee-Lane", "physics" : 89, "chemistry" : 74, "mathematics" : 94 },
+        {"id" : 4, "name" : "Sanlap Gadai", "address" : "Rail-gate", "physics" : 92, "chemistry" : 64, "mathematics" : 88 },
+        {"id" : 5, "name" : "Souvik Chatterjee", "address" : "Biswaspara", "physics" : 82, "chemistry" : 76, "mathematics" : 87 },
+        {"id" : 6, "name" : "Swapnanil Roy", "address" : "Chotobazar", "physics" : 87, "chemistry" : 75, "mathematics" : 92 }
+    ],
+    "arts_subjects" : [
+        {"id" : 1, "history" : 82, "geography" : 84, "philosophy" : 92},
+        {"id" : 2, "history" : 72, "geography" : 68, "philosophy" : 86},
+        {"id" : 3,  "history" : 79, "geography" : 88, "philosophy" : 69},
+        {"id" : 4, "history" : 65, "geography" : 70, "philosophy" : 82},
+        {"id" : 5, "history" : 75, "geography" : 64, "philosophy" : 88},
+        {"id" : 6,  "history" : 85, "geography" : 84, "philosophy" : 62}
+    ]
+}

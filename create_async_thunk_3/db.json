@@ -1,0 +1,18 @@
+{
+    "Phone" : [
+        {"id" : 1, "brand" : "Samsung", "model" : "j1-ace", "price" : 5000},
+        {"id" : 2, "brand" : "Sony", "model" : "Sony bravia", "price" : 15000},
+        {"id" : 3, "brand" : "Oppo", "model" : "Oppo LS3", "price" : 25000},
+        {"id" : 4, "brand" : "VIVO", "model" : "Vivo ultra 3", "price" : 18000},
+        {"id" : 5, "brand" : "Apple", "model" : "Apple 15 pro", "price" : 75000},
+        {"id" : 6, "brand" : "samsung", "model" : "pro max", "price" : 45000}
+    ],
+    "laptop" : [
+        {"id" : 1, "company" : "ASUS", "rating" : 4.4, "stock" : 233},
+        {"id" : 2, "company" : "Lenovo", "rating" : 3.9, "stock" : 183},
+        {"id" : 3, "company" : "ACCER", "rating" : 3.5, "stock" : 194},
+        {"id" : 4, "company" : "DELL", "rating" : 4.1, "stock" : 53},
+        {"id" : 5, "company" : "hp", "rating" : 4.9, "stock" : 136},
+        {"id" : 6, "company" : "Sony", "rating" : 2.8, "stock" : 84}
+    ]
+}
